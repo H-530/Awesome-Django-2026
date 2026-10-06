@@ -1,4 +1,4 @@
-# Awesome Django ðŸš€
+# Awesome Django 
 
 > A curated list of awesome Django frameworks, packages, libraries, and software. 
 
@@ -6,7 +6,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 
 ---
 
-## ðŸ“‘ Table of Contents
+## Table of Contents
 
 * [Official Resources](#-official-resources)
 * [Admin Dashboards & Interfaces](#-admin-dashboards--interfaces)
@@ -27,7 +27,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 
 ---
 
-## ðŸŒ Official Resources
+## Official Resources
 *Essential official links and community hubs.*
 * [Official Website](https://www.djangoproject.com/) - The home of Django.
 * [Official Documentation](https://docs.djangoproject.com/) - Extremely well-written and comprehensive.
@@ -36,7 +36,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 
 ---
 
-## ðŸŽ¨ Admin Dashboards & Interfaces
+## Admin Dashboards & Interfaces
 *Modern alternatives and enhancements for the default Django Admin.*
 * [Unfold](https://github.com/unfoldadmin/django-unfold) - Modern, Tailwind CSS-powered admin theme for Django.
 * [Jazzmin](https://github.com/farridav/django-jazzmin) - Dashboard inspired by AdminLTE and Bootstrap 4.
@@ -45,7 +45,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 
 ---
 
-## ðŸ” Authentication & Security
+## Authentication & Security
 *User management, authorization, 2FA, and advanced security.*
 * [Django Allauth](https://github.com/pennersr/django-allauth) - Integrated authentication for local and social accounts.
 * [Django OAuth Toolkit](https://github.com/jazzband/django-oauth-toolkit) - OAuth2 provider for Django.
@@ -55,7 +55,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 
 ---
 
-## ðŸ”Œ API & REST Frameworks
+## API & REST Frameworks
 *Tools for building robust web APIs.*
 * [Django REST Framework (DRF)](https://github.com/encode/django-rest-framework) - The industry standard for building APIs.
 * [Django Ninja](https://github.com/vitalik/django-ninja) - Fast web framework for building APIs with Django and Python type hints.
@@ -63,14 +63,14 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 
 ---
 
-## ðŸ›°ï¸ GraphQL
+## GraphQL
 *Building GraphQL endpoints with Django.*
 * [Strawberry Django](https://github.com/strawberry-graphql/strawberry-graphql-django) - Django extensions for Strawberry GraphQL using type-based definitions.
 * [Graphene Django](https://github.com/graphql-python/graphene-django) - Integration of GraphQL with Django using Graphene.
 
 ---
 
-## ðŸ’¾ Database, ORM & Migrations
+## Database, ORM & Migrations
 *Optimizing queries, handling models, and managing data.*
 * [Django Extensions](https://github.com/django-extensions/django-extensions) - A collection of custom extensions for Django (management commands, fields, etc.).
 * [Django Import/Export](https://github.com/django-import-export/django-import-export) - Import and export data with admin integration.
@@ -80,7 +80,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 
 ---
 
-## âš™ï¸ Background Tasks & Queues
+## Background Tasks & Queues
 *Asynchronous task management and scheduling.*
 * [Celery](https://github.com/celery/celery) - Distributed task queue.
 * [Django Q2](https://github.com/Koed00/django-q2) - Multiprocessing task cluster for Django.
@@ -89,14 +89,14 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 
 ---
 
-## âš¡ Async & WebSockets
+## Async & WebSockets
 *Real-time capabilities and ASGI integration.*
 * [Channels](https://github.com/django/channels) - Brings HTTP, WebSockets, and more to Django.
 * [Django Channels Presence](https://github.com/fusionbox/django-channels-presence) - Track users present on a Django Channels site.
 
 ---
 
-## ðŸ’» Frontend, Templates & Assets
+## Frontend, Templates & Assets
 *Seamlessly blending modern frontend workflows with Django templates.*
 * [HTMX + Django](https://github.com/bigskysoftware/htmx) - Modern interactivity without heavy JavaScript SPAs.
 * [Tailwind CSS for Django](https://github.com/django-tailwind/django-tailwind) - Seamless integration of Tailwind CSS.
@@ -105,7 +105,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 
 ---
 
-## ðŸ“ Forms & Validation
+## Forms & Validation
 *Enhancing forms, rendering, and validation logic.*
 * [Django Crispy Forms](https://github.com/django-crispy-forms/django-crispy-forms) - Best way to control the rendering of your Django forms.
 * [Crispy Bootstrap 5](https://github.com/django-crispy-forms/crispy-bootstrap5) - Bootstrap 5 template pack for crispy-forms.
@@ -113,7 +113,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 
 ---
 
-## ðŸ” Search & Filtering
+## Search & Filtering
 *Full-text search, filtering, and pagination.*
 * [Django Filter](https://github.com/carltongibson/django-filter) - Reusable Django application for filtering querysets based on user selections.
 * [Django Haystack](https://github.com/django-haystack/django-haystack) - Modular search for Django.
@@ -121,7 +121,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 
 ---
 
-## ðŸ“¦ Storage, Media & Uploads
+## Storage, Media & Uploads
 *Managing files, cloud storage, and image processing.*
 * [Django Storages](https://github.com/jschneier/django-storages) - Collection of custom storage backends (S3, GCS, Azure, etc.).
 * [Django Imagekit](https://github.com/matthewwithane/django-imagekit) - Automated image processing for Django models.
@@ -129,7 +129,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 
 ---
 
-## ðŸš€ DevOps, Deployment & Monitoring
+## DevOps, Deployment & Monitoring
 *Production readiness, server setups, and error tracking.*
 * [Gunicorn](https://gunicorn.org/) - WSGI HTTP server for Python.
 * [Uvicorn](https://www.uvicorn.org/) - ASGI lightning-fast server implementation.
@@ -139,7 +139,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 
 ---
 
-## ðŸ§ª Testing, Quality & CI/CD
+## Testing, Quality & CI/CD
 *Keeping codebases clean, robust, and bug-free.*
 * [Pytest Django](https://github.com/pytest-dev/pytest-django) - Django plugin for pytest.
 * [Factory Boy](https://github.com/FactoryBoy/factory_boy) - A fixtures replacement based on factories.
@@ -148,7 +148,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 
 ---
 
-## ðŸ§° Extensions & Utilities
+## Extensions & Utilities
 *Handy tools that don't fit standard buckets.*
 * [Django Model Utils](https://github.com/jazzband/django-model-utils) - Django model mixins and utilities (TimeStampedModel, StatusModel, etc.).
 * [Django Cookiecutter](https://github.com/cookiecutter/cookiecutter-django) - Awesome project template for jumpstarting production-ready Django apps.
@@ -156,7 +156,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 
 ---
 
-## ðŸ“š Community, Blogs & Books
+## Community, Blogs & Books
 *Where to learn, discuss, and stay updated.*
 * [Django Forum](https://forum.djangoproject.com/) - Official community discussion board.
 * [Two Scoops of Django](https://www.twoscoopspress.com/) - Best practices for Django (Must-read book).
@@ -165,7 +165,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 
 ---
 
-## ðŸ¤ Contributing
+## Contributing
 
 Contributions are always welcome! Please read the [contributing guide](CONTRIBUTING.md) to learn about how to propose changes, add tools, or fix broken links.
 
@@ -176,6 +176,6 @@ Contributions are always welcome! Please read the [contributing guide](CONTRIBUT
 
 ---
 
-## ðŸ“œ License
+## License
 
 This project is licensed under the terms of the [MIT License](LICENSE).
